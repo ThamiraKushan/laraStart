@@ -5,6 +5,9 @@
 @import 'variables';
 $fa-font-path:"../webfonts";
 
+//custom styles
+@import 'partial/nav';
+
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 

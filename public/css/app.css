@@ -31219,6 +31219,15 @@ a.text-muted:hover {
   color: #ffffff;
 }@charset "UTF-8";
 
+.router-link-active {
+  background-color: #005ebf;
+}
+
+.nav-sidebar > .nav-item > .nav-link:focus {
+  background-color: #005ebf !important;
+  color: #ffffff;
+}
+
 /*!
  * Bootstrap v4.5.2 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
