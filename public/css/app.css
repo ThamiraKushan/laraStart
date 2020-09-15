@@ -31228,6 +31228,11 @@ a.text-muted:hover {
   color: #ffffff;
 }
 
+[class*=sidebar-dark-] .nav-treeview > .nav-item > .nav-link:focus {
+  background-color: #005ebf !important;
+  color: #ffffff;
+}
+
 /*!
  * Bootstrap v4.5.2 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
